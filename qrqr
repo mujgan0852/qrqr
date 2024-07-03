@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dalaman ve Çevresi Gezilecek Yerler</title>
+</head>
+<body>
+    <h1>Dalaman ve Çevresi Gezilecek Yerler</h1>
+    <ul>
+        <li>
+            <h2>Sarsala Plajı</h2>
+            <p>Güzel doğası ve temiz denizi ile ünlüdür.</p>
+            <a href="https://www.google.com/maps/place/Sarsala+Plaj%C4%B1/" target="_blank">Konumu Görüntüle</a>
+        </li>
+        <li>
+            <h2>Sarıgerme Plajı</h2>
+            <p>Geniş kumsalı ve mavi bayraklı denizi ile bilinir.</p>
+            <a href="https://www.google.com/maps/place/Sar%C4%B1germe+Plaj%C4%B1/" target="_blank">Konumu Görüntüle</a>
+        </li>
+        <li>
+            <h2>Göcek 12 Adalar Turu</h2>
+            <p>Göcek'ten kalkan teknelerle muhteşem adaları keşfedebilirsiniz.</p>
+            <a href="https://www.google.com/maps/place/G%C3%B6cek/" target="_blank">Konumu Görüntüle</a>
+        </li>
+    </ul>
+</body>
+</html>
